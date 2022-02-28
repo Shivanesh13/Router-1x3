@@ -28,7 +28,7 @@ module FIFO_tb (
         reset;      // Resets the value
         delay;      // Delays the simulation
         write;      // Starts the write process
-        for ( i=1;i<num;i=i+1 ) begin
+        for ( i=0;i<num+1;i=i+1 ) begin
             lfd_state = 1'b0;   // For packets = 0
             data_in = {$random}%256;
             delay;
@@ -37,7 +37,7 @@ module FIFO_tb (
         stop_write;
         delay;
         read;
-        for (i = 0;i<num ;i=i+1 ) begin
+        for (i = 0;i<num+1;i=i+1 ) begin
             delay;
         end
         delay;
