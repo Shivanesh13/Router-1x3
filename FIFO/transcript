@@ -1,0 +1,109 @@
+# Compile of master.v failed with 1 errors.
+# Compile of master_tb.v failed with 2 errors.
+# 2 compiles, 2 failed with 3 errors.
+# Compile of master.v failed with 5 errors.
+# Compile of master_tb.v was successful.
+# 2 compiles, 1 failed with 5 errors.
+# Compile of master.v was successful.
+# Compile of master_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.master_tb
+# vsim -gui work.master_tb 
+# Start time: 16:09:07 on Feb 28,2022
+# Loading work.master_tb
+# Loading work.master
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/master_tb/*
+add wave -position insertpoint sim:/master_tb/DUT/*
+run -all
+# Data in: 10000001
+# MISO : 1
+# MISO : 1
+# MISO : 1
+# MISO : 1
+# MISO : 0
+# MISO : 1
+# MISO : 1
+# MISO : 0
+# Compile of master.v was successful.
+# Compile of master_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.master_tb
+# End time: 16:10:25 on Feb 28,2022, Elapsed time: 0:01:18
+# Errors: 0, Warnings: 8
+# vsim -gui work.master_tb 
+# Start time: 16:10:25 on Feb 28,2022
+# Loading work.master_tb
+# Loading work.master
+add wave -position insertpoint sim:/master_tb/*
+add wave -position insertpoint sim:/master_tb/DUT/*
+run -all
+# Data in: 10000001
+# MISO : 1
+# MISO : 1
+# MISO : 1
+# MISO : 1
+# MISO : 0
+# MISO : 1
+# MISO : 1
+# MISO : 0
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master_tb.v(32)
+#    Time: 220 ps  Iteration: 0  Instance: /master_tb
+# 1
+# Break in Module master_tb at C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master_tb.v line 32
+# Compile of master.v was successful.
+# Compile of master_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.master_tb
+# End time: 16:19:34 on Feb 28,2022, Elapsed time: 0:09:09
+# Errors: 0, Warnings: 2
+# vsim -gui work.master_tb 
+# Start time: 16:19:34 on Feb 28,2022
+# Loading work.master_tb
+# Loading work.master
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/master_tb/*
+add wave -position insertpoint sim:/master_tb/DUT/*
+run -all
+# Data in: 10000001
+# MISO : 1
+# MISO : 1
+# MISO : 1
+# MISO : 1
+# MISO : 0
+# MISO : 1
+# MISO : 1
+# MISO : 0
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master_tb.v(32)
+#    Time: 220 ps  Iteration: 0  Instance: /master_tb
+# 1
+# Break in Module master_tb at C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master_tb.v line 32
+# Compile of master.v was successful.
+# Compile of master_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.master_tb
+# End time: 16:24:46 on Feb 28,2022, Elapsed time: 0:05:12
+# Errors: 0, Warnings: 2
+# vsim -gui work.master_tb 
+# Start time: 16:24:46 on Feb 28,2022
+# Loading work.master_tb
+# Loading work.master
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/master_tb/*
+add wave -position insertpoint sim:/master_tb/DUT/*
+run -all
+# Data in: 00001101
+# MISO : 1
+# MISO : 1
+# MISO : 1
+# MISO : 1
+# MISO : 1
+# MISO : 0
+# MISO : 1
+# MISO : 1
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master_tb.v(32)
+#    Time: 220 ps  Iteration: 0  Instance: /master_tb
+# 1
+# Break in Module master_tb at C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master_tb.v line 32
+# End time: 16:27:28 on Feb 28,2022, Elapsed time: 0:02:42
+# Errors: 0, Warnings: 1

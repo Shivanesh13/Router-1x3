@@ -1,5 +1,7 @@
 // Testbench for FIFO module 
 // Made by: G.Shivanesh
+// Date: 27/2/22
+
 module FIFO_tb (
 );
     // Ports are declared as in Main module 
@@ -27,6 +29,8 @@ module FIFO_tb (
         initialize; // Initializes the values
         reset;      // Resets the value
         delay;      // Delays the simulation
+        soft_reset_enable;
+        delay;
         write;      // Starts the write process
         for ( i=0;i<num+1;i=i+1 ) begin
             lfd_state = 1'b0;   // For packets = 0
@@ -37,7 +41,7 @@ module FIFO_tb (
         stop_write;
         delay;
         read;
-        for (i = 0;i<num+1;i=i+1 ) begin
+        for (i = 0;i<num+5;i=i+1 ) begin
             delay;
         end
         delay;
@@ -76,6 +80,13 @@ module FIFO_tb (
     begin
         @(negedge clk) resetn = 1'b0;
         @(negedge clk) resetn = 1'b1;
+    end
+    endtask
+
+    task soft_reset_enable;
+    begin
+        @(negedge clk) soft_reset = 1'b1;
+        @(negedge clk) soft_reset = 1'b0;
     end
     endtask
 

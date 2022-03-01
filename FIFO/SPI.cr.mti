@@ -1,0 +1,15 @@
+{C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master.v} {1 {vlog -work work -stats=none {C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module master
+
+Top level modules:
+	master
+
+} {} {}} {C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master_tb.v} {1 {vlog -work work -stats=none {C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module master_tb
+
+Top level modules:
+	master_tb
+
+} {} {}}
