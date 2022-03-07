@@ -1,0 +1,615 @@
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v failed with 1 errors.
+# Compile of router_fsm_tb.v failed with 4 errors.
+# 3 compiles, 2 failed with 5 errors.
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v failed with 3 errors.
+# 3 compiles, 1 failed with 3 errors.
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v failed with 2 errors.
+# 3 compiles, 1 failed with 2 errors.
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# vsim -gui work.router_fsm_tb 
+# Start time: 17:03:09 on Mar 02,2022
+# Loading work.router_fsm_tb
+# ** Error: (vsim-3033) Instantiation of 'router_fsm' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /router_fsm_tb File: C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v Line: 10
+#         Searched libraries:
+#             C:/Users/G Shivanesh/Desktop/Router_Project/fsm/work
+# Error loading design
+# End time: 17:03:10 on Mar 02,2022, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 8
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+# Load canceled
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# vsim -gui work.router_fsm_tb 
+# Start time: 17:06:22 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/router_fsm_tb/*
+add wave -position insertpoint sim:/router_fsm_tb/DUT/*
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(27)
+#    Time: 100 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 27
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 18:56:45 on Mar 02,2022, Elapsed time: 1:50:23
+# Errors: 0, Warnings: 4
+# vsim -gui work.router_fsm_tb 
+# Start time: 18:56:45 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ----------------------------------
+# Present State:  LFD
+# Present State:   LD
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(32)
+#    Time: 170 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 32
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 19:01:12 on Mar 02,2022, Elapsed time: 0:04:27
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:01:12 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ----------------------------------
+# Present State:  LFD
+# Present State:   LD
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(32)
+#    Time: 170 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 32
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 19:02:13 on Mar 02,2022, Elapsed time: 0:01:01
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:02:13 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(32)
+#    Time: 80 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 32
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 19:05:13 on Mar 02,2022, Elapsed time: 0:03:00
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:05:13 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(32)
+#    Time: 80 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 32
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 19:07:34 on Mar 02,2022, Elapsed time: 0:02:21
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:07:34 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# Present State:  CPE
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(32)
+#    Time: 90 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 32
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 19:11:35 on Mar 02,2022, Elapsed time: 0:04:01
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:11:35 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# Present State:  CPE
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(33)
+#    Time: 90 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 33
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 19:14:06 on Mar 02,2022, Elapsed time: 0:02:31
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:14:06 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# Present State:  CPE
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(33)
+#    Time: 90 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 33
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+vsim -gui work.router_fsm_tb
+# End time: 19:16:19 on Mar 02,2022, Elapsed time: 0:02:13
+# Errors: 0, Warnings: 1
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:16:19 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/router_fsm_tb/*
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# Present State:  CPE
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(33)
+#    Time: 90 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 33
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 19:19:05 on Mar 02,2022, Elapsed time: 0:02:46
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:19:05 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# Present State:  CPE
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(33)
+#    Time: 90 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 33
+vsim -gui work.router_fsm_tb
+# End time: 19:19:26 on Mar 02,2022, Elapsed time: 0:00:21
+# Errors: 0, Warnings: 1
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:19:26 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+add wave -position insertpoint sim:/router_fsm_tb/*
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# Present State:  CPE
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(33)
+#    Time: 90 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 33
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 19:22:55 on Mar 02,2022, Elapsed time: 0:03:29
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:22:55 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(33)
+#    Time: 80 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 33
+vsim -gui work.router_fsm_tb
+# End time: 19:25:13 on Mar 02,2022, Elapsed time: 0:02:18
+# Errors: 0, Warnings: 1
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:25:13 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+add wave -position insertpoint sim:/router_fsm_tb/*
+add wave -position insertpoint sim:/router_fsm_tb/DUT/*
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(33)
+#    Time: 80 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 33
+vsim -gui work.router_fsm_tb
+# End time: 19:26:33 on Mar 02,2022, Elapsed time: 0:01:20
+# Errors: 0, Warnings: 1
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:26:33 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(33)
+#    Time: 80 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 33
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 19:28:14 on Mar 02,2022, Elapsed time: 0:01:41
+# Errors: 0, Warnings: 3
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:28:14 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+add wave -position insertpoint sim:/router_fsm_tb/*
+add wave -position insertpoint sim:/router_fsm_tb/DUT/*
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(33)
+#    Time: 80 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 33
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 19:29:37 on Mar 02,2022, Elapsed time: 0:01:23
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:29:37 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/router_fsm_tb/*
+add wave -position insertpoint sim:/router_fsm_tb/DUT/*
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(33)
+#    Time: 120 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 33
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 19:31:28 on Mar 02,2022, Elapsed time: 0:01:51
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:31:28 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(33)
+#    Time: 150 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 33
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v failed with 1 errors.
+# 3 compiles, 1 failed with 1 error.
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 19:38:00 on Mar 02,2022, Elapsed time: 0:06:32
+# Errors: 0, Warnings: 3
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:38:00 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ----------------------------------
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ----------------------------------
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LD
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(39)
+#    Time: 380 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 39
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 19:43:12 on Mar 02,2022, Elapsed time: 0:05:12
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:43:12 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ----------------------------------
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ----------------------------------
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LD
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ----------------------------------
+# Present State:  LFD
+# Present State:   LD
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(45)
+#    Time: 510 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 45
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 19:45:22 on Mar 02,2022, Elapsed time: 0:02:10
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:45:22 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ----------------------------------
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ----------------------------------
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LD
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ----------------------------------
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   DA
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(45)
+#    Time: 500 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 45
+# Compile of Parameters_def.v was successful.
+# Compile of router_fsm.v was successful.
+# Compile of router_fsm_tb.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.router_fsm_tb
+# End time: 19:47:54 on Mar 02,2022, Elapsed time: 0:02:32
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_fsm_tb 
+# Start time: 19:47:54 on Mar 02,2022
+# Loading work.router_fsm_tb
+# Loading work.router_fsm
+# WARNING: No extended dataflow license exists
+run -all
+# Present State:   DA
+# Present State:  LFD
+# Present State:   LD
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ----------------------------------
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ----------------------------------
+# Present State:  LFD
+# Present State:   LD
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   LD
+# Present State:   LP
+# Present State:  CPE
+# Present State:   DA
+# ----------------------------------
+# Present State:  LFD
+# Present State:   LD
+# Present State:   LP
+# Present State:  CPE
+# Present State:  FFS
+# Present State:  LAF
+# Present State:   DA
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v(45)
+#    Time: 520 ps  Iteration: 0  Instance: /router_fsm_tb
+# 1
+# Break in Module router_fsm_tb at C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v line 45
+# End time: 23:44:56 on Mar 04,2022, Elapsed time: 51:57:02
+# Errors: 0, Warnings: 1

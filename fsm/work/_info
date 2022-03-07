@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vfsm_router
+!s110 1646220939
+!i10b 1
+!s100 mlKZfATao]QHKE<7didfF0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IKbm<ob`eU_`3^[MDdHoXJ2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/G Shivanesh/Desktop/Router_Project/fsm
+w1646220590
+Z3 8C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm.v
+Z4 FC:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm.v
+!i122 4
+Z5 L0 4 92
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1646220939.000000
+Z7 !s107 Parameters_def.v|C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm.v|
+!i113 1
+Z9 o-work work
+Z10 tCvgOpt 0
+vrouter_fsm
+Z11 !s110 1646230664
+!i10b 1
+!s100 njC2oAmkDT?PnR=^Wi]Yi3
+R0
+IE9PY1ZDcaJg3FfH@llCPR3
+R1
+R2
+w1646230193
+R3
+R4
+!i122 39
+R5
+R6
+r1
+!s85 0
+31
+!s108 1646230663.000000
+R7
+R8
+!i113 1
+R9
+R10
+vrouter_fsm_tb
+R11
+!i10b 1
+!s100 80:cS:mZAZBjWm[G:]6EG3
+R0
+Ic0=CoB=8Q_I@35D_2mMjV3
+R1
+R2
+w1646230654
+8C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v
+FC:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v
+!i122 40
+L0 1 184
+R6
+r1
+!s85 0
+31
+!s108 1646230664.000000
+!s107 C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/G Shivanesh/Desktop/Router_Project/fsm/router_fsm_tb.v|
+!i113 1
+R9
+R10
