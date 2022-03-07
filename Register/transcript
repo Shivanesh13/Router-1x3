@@ -1,0 +1,341 @@
+# Compile of router_register.v failed with 1 errors.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of router_register.v failed with 1 errors.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of router_register.v was successful.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.router_register_tb
+# vsim -gui work.router_register_tb 
+# Start time: 18:14:42 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+# WARNING: No extended dataflow license exists
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(21)
+#    Time: 60 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 21
+vsim -gui work.router_register_tb
+# End time: 18:15:31 on Mar 07,2022, Elapsed time: 0:00:49
+# Errors: 0, Warnings: 7
+# vsim -gui work.router_register_tb 
+# Start time: 18:15:31 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+add wave -position insertpoint sim:/router_register_tb/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(21)
+#    Time: 60 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 21
+vsim -gui work.router_register_tb
+# End time: 18:16:22 on Mar 07,2022, Elapsed time: 0:00:51
+# Errors: 0, Warnings: 1
+# vsim -gui work.router_register_tb 
+# Start time: 18:16:22 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/router_register_tb/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(21)
+#    Time: 60 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 21
+vsim -gui work.router_register_tb
+# End time: 18:17:26 on Mar 07,2022, Elapsed time: 0:01:04
+# Errors: 0, Warnings: 1
+# vsim -gui work.router_register_tb 
+# Start time: 18:17:26 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+add wave -position insertpoint sim:/router_register_tb/*
+add wave -position insertpoint sim:/router_register_tb/DUT/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(21)
+#    Time: 60 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 21
+# Compile of router_register.v was successful.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.router_register_tb
+# End time: 18:20:05 on Mar 07,2022, Elapsed time: 0:02:39
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_register_tb 
+# Start time: 18:20:05 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+# WARNING: No extended dataflow license exists
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(21)
+#    Time: 60 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 21
+vsim -gui work.router_register_tb
+# End time: 18:20:33 on Mar 07,2022, Elapsed time: 0:00:28
+# Errors: 0, Warnings: 1
+# vsim -gui work.router_register_tb 
+# Start time: 18:20:33 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/router_register_tb/*
+add wave -position insertpoint sim:/router_register_tb/DUT/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(21)
+#    Time: 60 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 21
+# Compile of router_register.v was successful.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.router_register_tb
+# End time: 18:25:34 on Mar 07,2022, Elapsed time: 0:05:01
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_register_tb 
+# Start time: 18:25:34 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/router_register_tb/*
+add wave -position insertpoint sim:/router_register_tb/DUT/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(23)
+#    Time: 80 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 23
+# Load canceled
+# Compile of router_register.v was successful.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.router_register_tb
+# End time: 18:27:31 on Mar 07,2022, Elapsed time: 0:01:57
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_register_tb 
+# Start time: 18:27:31 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+add wave -position insertpoint sim:/router_register_tb/*
+add wave -position insertpoint sim:/router_register_tb/DUT/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(23)
+#    Time: 80 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 23
+# Compile of router_register.v was successful.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.router_register_tb
+# End time: 18:31:11 on Mar 07,2022, Elapsed time: 0:03:40
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_register_tb 
+# Start time: 18:31:11 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/router_register_tb/*
+add wave -position insertpoint sim:/router_register_tb/DUT/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(23)
+#    Time: 80 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 23
+# Compile of router_register.v was successful.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.router_register_tb
+# End time: 18:46:41 on Mar 07,2022, Elapsed time: 0:15:30
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_register_tb 
+# Start time: 18:46:42 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+add wave -position insertpoint sim:/router_register_tb/*
+add wave -position insertpoint sim:/router_register_tb/DUT/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(23)
+#    Time: 80 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 23
+# Compile of router_register.v was successful.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+add wave -position insertpoint sim:/router_register_tb/*
+add wave -position insertpoint sim:/router_register_tb/DUT/*
+run -all
+# Compile of router_register.v was successful.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.router_register_tb
+# End time: 19:15:25 on Mar 07,2022, Elapsed time: 0:28:43
+# Errors: 0, Warnings: 3
+# vsim -gui work.router_register_tb 
+# Start time: 19:15:25 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+# WARNING: No extended dataflow license exists
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(23)
+#    Time: 80 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 23
+vsim -gui work.router_register_tb
+# End time: 19:15:44 on Mar 07,2022, Elapsed time: 0:00:19
+# Errors: 0, Warnings: 1
+# vsim -gui work.router_register_tb 
+# Start time: 19:15:44 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+add wave -position insertpoint sim:/router_register_tb/*
+add wave -position insertpoint sim:/router_register_tb/DUT/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(23)
+#    Time: 80 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 23
+# Compile of router_register.v was successful.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.router_register_tb
+# End time: 19:19:34 on Mar 07,2022, Elapsed time: 0:03:50
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_register_tb 
+# Start time: 19:19:34 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+add wave -position insertpoint sim:/router_register_tb/*
+add wave -position insertpoint sim:/router_register_tb/DUT/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(23)
+#    Time: 80 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 23
+# Compile of router_register.v was successful.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.router_register_tb
+# End time: 19:31:58 on Mar 07,2022, Elapsed time: 0:12:24
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_register_tb 
+# Start time: 19:31:58 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+# WARNING: No extended dataflow license exists
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(23)
+#    Time: 80 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 23
+vsim -gui work.router_register_tb
+# End time: 19:32:18 on Mar 07,2022, Elapsed time: 0:00:20
+# Errors: 0, Warnings: 1
+# vsim -gui work.router_register_tb 
+# Start time: 19:32:18 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+add wave -position insertpoint sim:/router_register_tb/*
+add wave -position insertpoint sim:/router_register_tb/DUT/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(23)
+#    Time: 80 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 23
+# Compile of router_register.v was successful.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.router_register_tb
+# End time: 19:34:04 on Mar 07,2022, Elapsed time: 0:01:46
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_register_tb 
+# Start time: 19:34:04 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+# WARNING: No extended dataflow license exists
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(23)
+#    Time: 100 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 23
+vsim -gui work.router_register_tb
+# End time: 19:34:24 on Mar 07,2022, Elapsed time: 0:00:20
+# Errors: 0, Warnings: 1
+# vsim -gui work.router_register_tb 
+# Start time: 19:34:24 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/router_register_tb/*
+add wave -position insertpoint sim:/router_register_tb/DUT/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(23)
+#    Time: 100 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 23
+# Compile of router_register.v was successful.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.router_register_tb
+# End time: 19:37:35 on Mar 07,2022, Elapsed time: 0:03:11
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_register_tb 
+# Start time: 19:37:35 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(23)
+#    Time: 100 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 23
+vsim -gui work.router_register_tb
+# End time: 19:37:50 on Mar 07,2022, Elapsed time: 0:00:15
+# Errors: 0, Warnings: 1
+# vsim -gui work.router_register_tb 
+# Start time: 19:37:50 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+add wave -position insertpoint sim:/router_register_tb/*
+add wave -position insertpoint sim:/router_register_tb/DUT/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(23)
+#    Time: 100 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 23
+# Compile of router_register.v was successful.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.router_register_tb
+# End time: 19:44:39 on Mar 07,2022, Elapsed time: 0:06:49
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_register_tb 
+# Start time: 19:44:39 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/router_register_tb/*
+add wave -position insertpoint sim:/router_register_tb/DUT/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(23)
+#    Time: 100 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 23
+# Compile of router_register.v was successful.
+# Compile of router_register_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.router_register_tb
+# End time: 19:45:35 on Mar 07,2022, Elapsed time: 0:00:56
+# Errors: 0, Warnings: 2
+# vsim -gui work.router_register_tb 
+# Start time: 19:45:35 on Mar 07,2022
+# Loading work.router_register_tb
+# Loading work.router_register
+add wave -position insertpoint sim:/router_register_tb/*
+add wave -position insertpoint sim:/router_register_tb/DUT/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v(23)
+#    Time: 100 ps  Iteration: 0  Instance: /router_register_tb
+# 1
+# Break in Module router_register_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Register/router_register_tb.v line 23
