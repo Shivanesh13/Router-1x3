@@ -45,6 +45,9 @@ module FIFO_tb (
             delay;
         end
         delay;
+        for (i = 0;i<num+5;i=i+1 ) begin
+            $display("Mem = %b",DUT.mem[i]);
+        end
         $finish;
     end
 

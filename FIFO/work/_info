@@ -10,23 +10,23 @@ z2
 cModel Technology
 dC:/intelFPGA_lite/20.1
 vFIFO
-Z0 !s110 1646026031
+Z0 !s110 1646110782
 !i10b 1
-!s100 cm2m7>k5_SB2F[3i2fM1d1
+!s100 kJD>EIGbgoDGooJ2UQTV?1
 Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
-I]==oaMQ=A_f]khhXh>F8d0
+IU=NKAJe0KbH=W8kQh`hh>1
 Z2 VDg1SIo80bB@j0V0VzS_@n1
 Z3 dC:/Users/G Shivanesh/Desktop/Router_Project/FIFO
-w1646025650
+w1646109730
 8C:/Users/G Shivanesh/Desktop/Router_Project/FIFO/FIFO.v
 FC:/Users/G Shivanesh/Desktop/Router_Project/FIFO/FIFO.v
-!i122 45
-L0 6 60
+!i122 62
+L0 6 62
 Z4 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z5 !s108 1646026031.000000
+Z5 !s108 1646110782.000000
 !s107 C:/Users/G Shivanesh/Desktop/Router_Project/FIFO/FIFO.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/G Shivanesh/Desktop/Router_Project/FIFO/FIFO.v|
 !i113 1
@@ -36,16 +36,16 @@ n@f@i@f@o
 vFIFO_tb
 R0
 !i10b 1
-!s100 Wm76Y[XT>6`MCRci0o8h?1
+!s100 >FYmL8^`ozjj@PQiMSCm<3
 R1
-IFo`6jc=dN@?9VzHm2UdYT3
+I@>]Cnk;@Z3=R3?;8g@i1B2
 R2
 R3
-w1646025992
+w1646110649
 8C:/Users/G Shivanesh/Desktop/Router_Project/FIFO/FIFO_tb.v
 FC:/Users/G Shivanesh/Desktop/Router_Project/FIFO/FIFO_tb.v
-!i122 46
-L0 5 107
+!i122 63
+L0 5 110
 R4
 r1
 !s85 0

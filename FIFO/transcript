@@ -1,109 +1,74 @@
-# Compile of master.v failed with 1 errors.
-# Compile of master_tb.v failed with 2 errors.
-# 2 compiles, 2 failed with 3 errors.
-# Compile of master.v failed with 5 errors.
-# Compile of master_tb.v was successful.
-# 2 compiles, 1 failed with 5 errors.
-# Compile of master.v was successful.
-# Compile of master_tb.v was successful.
+# Compile of router_syn.v failed with 4 errors.
+# Compile of router_syn_tb.v failed with 2 errors.
+# 2 compiles, 2 failed with 6 errors.
+# Compile of router_syn.v failed with 4 errors.
+# Compile of router_syn_tb.v failed with 4 errors.
+# 2 compiles, 2 failed with 8 errors.
+# Compile of router_syn.v failed with 1 errors.
+# Compile of router_syn_tb.v failed with 1 errors.
+# 2 compiles, 2 failed with 2 errors.
+# Compile of router_syn.v was successful.
+# Compile of router_syn_tb.v was successful.
 # 2 compiles, 0 failed with no errors.
-vsim -gui work.master_tb
-# vsim -gui work.master_tb 
-# Start time: 16:09:07 on Feb 28,2022
-# Loading work.master_tb
-# Loading work.master
+vsim -gui work.router_syn_tb
+# vsim -gui work.router_syn_tb 
+# Start time: 14:53:37 on Mar 01,2022
+# Loading work.router_syn_tb
+# Loading work.router_syn
 # WARNING: No extended dataflow license exists
-add wave -position insertpoint sim:/master_tb/*
-add wave -position insertpoint sim:/master_tb/DUT/*
+add wave -position insertpoint sim:/router_syn_tb/*
+add wave -position insertpoint sim:/router_syn_tb/DUT/*
 run -all
-# Data in: 10000001
-# MISO : 1
-# MISO : 1
-# MISO : 1
-# MISO : 1
-# MISO : 0
-# MISO : 1
-# MISO : 1
-# MISO : 0
-# Compile of master.v was successful.
-# Compile of master_tb.v was successful.
-# 2 compiles, 0 failed with no errors.
-vsim -gui work.master_tb
-# End time: 16:10:25 on Feb 28,2022, Elapsed time: 0:01:18
-# Errors: 0, Warnings: 8
-# vsim -gui work.master_tb 
-# Start time: 16:10:25 on Feb 28,2022
-# Loading work.master_tb
-# Loading work.master
-add wave -position insertpoint sim:/master_tb/*
-add wave -position insertpoint sim:/master_tb/DUT/*
-run -all
-# Data in: 10000001
-# MISO : 1
-# MISO : 1
-# MISO : 1
-# MISO : 1
-# MISO : 0
-# MISO : 1
-# MISO : 1
-# MISO : 0
-# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master_tb.v(32)
-#    Time: 220 ps  Iteration: 0  Instance: /master_tb
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Syn/router_syn_tb.v(24)
+#    Time: 370 ps  Iteration: 0  Instance: /router_syn_tb
 # 1
-# Break in Module master_tb at C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master_tb.v line 32
-# Compile of master.v was successful.
-# Compile of master_tb.v was successful.
+# Break in Module router_syn_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Syn/router_syn_tb.v line 24
+# Compile of router_syn.v was successful.
+# Compile of router_syn_tb.v was successful.
 # 2 compiles, 0 failed with no errors.
-vsim -gui work.master_tb
-# End time: 16:19:34 on Feb 28,2022, Elapsed time: 0:09:09
-# Errors: 0, Warnings: 2
-# vsim -gui work.master_tb 
-# Start time: 16:19:34 on Feb 28,2022
-# Loading work.master_tb
-# Loading work.master
+vsim -gui work.router_syn_tb
+# End time: 14:57:57 on Mar 01,2022, Elapsed time: 0:04:20
+# Errors: 0, Warnings: 9
+# vsim -gui work.router_syn_tb 
+# Start time: 14:57:57 on Mar 01,2022
+# Loading work.router_syn_tb
+# Loading work.router_syn
 # WARNING: No extended dataflow license exists
-add wave -position insertpoint sim:/master_tb/*
-add wave -position insertpoint sim:/master_tb/DUT/*
-run -all
-# Data in: 10000001
-# MISO : 1
-# MISO : 1
-# MISO : 1
-# MISO : 1
-# MISO : 0
-# MISO : 1
-# MISO : 1
-# MISO : 0
-# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master_tb.v(32)
-#    Time: 220 ps  Iteration: 0  Instance: /master_tb
-# 1
-# Break in Module master_tb at C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master_tb.v line 32
-# Compile of master.v was successful.
-# Compile of master_tb.v was successful.
-# 2 compiles, 0 failed with no errors.
-vsim -gui work.master_tb
-# End time: 16:24:46 on Feb 28,2022, Elapsed time: 0:05:12
-# Errors: 0, Warnings: 2
-# vsim -gui work.master_tb 
-# Start time: 16:24:46 on Feb 28,2022
-# Loading work.master_tb
-# Loading work.master
+vsim -gui work.router_syn_tb
+# End time: 14:58:20 on Mar 01,2022, Elapsed time: 0:00:23
+# Errors: 0, Warnings: 1
+# vsim -gui work.router_syn_tb 
+# Start time: 14:58:20 on Mar 01,2022
+# Loading work.router_syn_tb
+# Loading work.router_syn
 # WARNING: No extended dataflow license exists
-add wave -position insertpoint sim:/master_tb/*
-add wave -position insertpoint sim:/master_tb/DUT/*
+add wave -position insertpoint sim:/router_syn_tb/*
+add wave -position insertpoint sim:/router_syn_tb/DUT/*
 run -all
-# Data in: 00001101
-# MISO : 1
-# MISO : 1
-# MISO : 1
-# MISO : 1
-# MISO : 1
-# MISO : 0
-# MISO : 1
-# MISO : 1
-# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master_tb.v(32)
-#    Time: 220 ps  Iteration: 0  Instance: /master_tb
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Syn/router_syn_tb.v(24)
+#    Time: 370 ps  Iteration: 0  Instance: /router_syn_tb
 # 1
-# Break in Module master_tb at C:/Users/G Shivanesh/Desktop/SPI_Project/SPI_master/master_tb.v line 32
-# End time: 16:27:28 on Feb 28,2022, Elapsed time: 0:02:42
+# Break in Module router_syn_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Syn/router_syn_tb.v line 24
+# Compile of router_syn.v failed with 3 errors.
+# Compile of router_syn_tb.v was successful.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of router_syn.v was successful.
+# Compile of router_syn_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.router_syn_tb
+# End time: 15:06:35 on Mar 01,2022, Elapsed time: 0:08:15
+# Errors: 0, Warnings: 3
+# vsim -gui work.router_syn_tb 
+# Start time: 15:06:35 on Mar 01,2022
+# Loading work.router_syn_tb
+# Loading work.router_syn
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/router_syn_tb/*
+add wave -position insertpoint sim:/router_syn_tb/DUT/*
+run -all
+# ** Note: $finish    : C:/Users/G Shivanesh/Desktop/Router_Project/Syn/router_syn_tb.v(24)
+#    Time: 370 ps  Iteration: 0  Instance: /router_syn_tb
+# 1
+# Break in Module router_syn_tb at C:/Users/G Shivanesh/Desktop/Router_Project/Syn/router_syn_tb.v line 24
+# End time: 17:32:09 on Mar 01,2022, Elapsed time: 2:25:34
 # Errors: 0, Warnings: 1

@@ -56,7 +56,6 @@ always @(posedge clk, negedge resetn, posedge soft_reset) begin
         end
         end
     end
-
 end
 
 assign empty = (w_point == 4'b0)?1'b1:1'b0;
